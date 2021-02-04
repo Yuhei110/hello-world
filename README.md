@@ -7,3 +7,5 @@ I could manage to link with RStudio!!
 
 ## Next step
 The next step is to learn how to put csv database on github.
+
+I have totally forgotten how to use git...
